@@ -10,7 +10,7 @@
 Mình đam mê phát triển ứng dụng Android, đặc biệt quan tâm đến trải nghiệm người dùng và hiệu suất ứng dụng.  
 Hiện tại đang phát triển kỹ năng với **Java**, **Kotlin**, và **Firebase**, đồng thời có định hướng học **Flutter** để mở rộng sang phát triển đa nền tảng.
 
-- 🔧 Thành thạo: `Java`, `Kotlin`, `Android Studio`, `Git`, `XML`
+- 🔧 Thành thạo: `Java`, `Kotlin`, `Android Studio`, `Git`, `XML`,`jupiter notebook`,`python`
 - 🌱 Đang học: `Firebase`, `Room`, `Retrofit`
 - 🏆 Đạt học bổng học kỳ 1, năm học 2024–2025
 
