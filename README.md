@@ -1,11 +1,11 @@
-# 👨‍💻 Nguyễn Văn Đức Tuân
+#  Nguyễn Văn Đức Tuân
 
-🎓 Sinh viên năm cuối ngành Công nghệ Thông tin tại **Trường Đại học Công nghiệp TP.HCM**  
-🎯 Định hướng trở thành **Lập trình viên Android Fullstack**, tập trung xây dựng ứng dụng di động có tính thực tiễn và khả năng mở rộng cao.
+ Sinh viên năm cuối ngành Công nghệ Thông tin tại **Trường Đại học Công nghiệp TP.HCM**  
+ Định hướng trở thành **Lập trình viên Android Fullstack**, tập trung xây dựng ứng dụng di động có tính thực tiễn và khả năng mở rộng cao.
 
 ---
 
-## 🚀 Giới thiệu bản thân
+##  Giới thiệu bản thân
 
 Mình đam mê phát triển ứng dụng Android, đặc biệt quan tâm đến trải nghiệm người dùng và hiệu suất ứng dụng.  
 Hiện tại đang phát triển kỹ năng với **Java**, **Kotlin**, và **Firebase**, đồng thời có định hướng học **Flutter** để mở rộng sang phát triển đa nền tảng.
@@ -17,9 +17,9 @@ Hiện tại đang phát triển kỹ năng với **Java**, **Kotlin**, và **Fi
 
 ---
 
-## 📱 Dự án tiêu biểu
+##  Dự án tiêu biểu
 
-### 🎵 [Ứng dụng nghe nhạc - Music Player](https://github.com/tuangato147/MusicPL)  
+###  [Ứng dụng nghe nhạc - Music Player](https://github.com/tuangato147/MusicPL)  
 **Thời gian:** 01/2025 – 03/2025  
 **Mô tả:** Ứng dụng phát nhạc offline từ bộ nhớ thiết bị, giao diện thân thiện và có hỗ trợ playlist.  
 **Công nghệ:** Java, Android Studio, XML, MediaPlayer, Glide  
@@ -28,7 +28,7 @@ Hiện tại đang phát triển kỹ năng với **Java**, **Kotlin**, và **Fi
 - Tích hợp MediaPlayer để phát nhạc và Glide để hiển thị ảnh album
 - Đang lên kế hoạch tích hợp Room để lưu playlist và Firebase để thông báo khi phát nhạc
 
-> 🎧 Mang đến trải nghiệm nghe nhạc mượt mà và dễ sử dụng trên Android.
+>  Mang đến trải nghiệm nghe nhạc mượt mà và dễ sử dụng trên Android.
 
 ---
 
@@ -41,15 +41,15 @@ Hiện tại đang phát triển kỹ năng với **Java**, **Kotlin**, và **Fi
 - Sử dụng SQLite để lưu trữ dữ liệu  
 - Đang tiến hành tích hợp Retrofit để kết nối API và sử dụng Firebase để gửi thông báo lịch hẹn
 
-> 🏥 Hướng đến việc cải thiện hiệu quả vận hành bệnh viện và chăm sóc bệnh nhân.
+>  Hướng đến việc cải thiện hiệu quả vận hành bệnh viện và chăm sóc bệnh nhân.
 
 ---
 
-## 📫 Liên hệ
+##  Liên hệ
 
-- 📧 Email: *tuangato147@gmail.com*  
-- 🌐 GitHub: [@tuangato147](https://github.com/tuangato147)
+-  Email: *tuangato147@gmail.com*  
+-  GitHub: [@tuangato147](https://github.com/tuangato147)
 
 ---
 
-> *“Luôn học hỏi – Luôn phát triển – Luôn tạo giá trị.”* 🚀
+> *“Luôn học hỏi – Luôn phát triển – Luôn tạo giá trị.”* 
