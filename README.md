@@ -46,7 +46,7 @@ Hiện tại đang phát triển kỹ năng với **Java**, **Kotlin**, và **Fi
 
 ## 📫 Liên hệ
 
-- 📧 Email: *tuanductran147@gmail.com*  
+- 📧 Email: *tuangato147@gmail.com*  
 - 🌐 GitHub: [@tuangato147](https://github.com/tuangato147)
 
 ---
