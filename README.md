@@ -1,6 +1,6 @@
 #  Nguyễn Văn Đức Tuân
 
- Sinh viên năm cuối ngành Công nghệ Thông tin tại **Trường Đại học Công nghiệp TP.HCM**  
+ Sinh viên năm cuối ngành Công nghệ Kỹ thuật máy tính tại **Trường Đại học Công nghiệp TP.HCM**  
  Định hướng trở thành **Lập trình viên Android Fullstack**, tập trung xây dựng ứng dụng di động có tính thực tiễn và khả năng mở rộng cao.
 
 ---
